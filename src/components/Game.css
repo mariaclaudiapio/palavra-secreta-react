@@ -11,7 +11,8 @@
 }
 
 .wordContainer {
-    margin: 1.5em;
+    max-width: 80%;
+    margin: 0 auto;
     padding: 1.5em;
     border: 20px solid orange;
     display: flex;
